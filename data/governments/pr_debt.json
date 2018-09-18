@@ -1,0 +1,52 @@
+{
+  "description": "Puerto Rican Debt in Comparison to Seth Klarman's Net Worth",
+	"source": "https://drive.google.com/file/d/0B0Uiq9zWJ6_FSG1HOVJnZ3NtQ00/view",
+  "debt": [
+  {
+    "month" : "December 2016",
+    "debt_ammt" : "64.2",
+    "net_worth" : "1.37"
+  },   
+  {
+    "month" : "January 2017",
+    "debt_ammt" : "65.11",
+    "net_worth" : "1.38"
+  },
+  {
+    "month" : "February 2017",
+    "debt_ammt" : "66.02",
+    "net_worth" : "1.401"
+  },
+  {
+    "month" : "March 2017",
+    "debt_ammt" : "66.93",
+    "net_worth" : "1.422"
+  },
+  {
+    "month" : "April 2017",
+    "debt_ammt" : "67.84",
+    "net_worth" : "1.443"
+  },
+  {
+    "month" : "May 2017",
+    "debt_ammt" : "68.75",
+    "net_worth" : "1.464"
+  },
+  {
+    "month" : "June 2017",
+    "debt_ammt" : "69.66",
+    "net_worth" : "1.485"
+  },
+  {
+    "month" : "July 2017",
+    "debt_ammt" : "70.57",
+    "net_worth" : "1.506"
+  },
+  {
+    "month" : "August 2017",
+    "debt_ammt" : "72.3",
+    "net_worth" : "1.55"
+  }
+]
+}
+    
