@@ -1,8 +1,7 @@
 // a collection of Latin combining affixes 
 {
-	"description": "A list of combining terms found in medical Greek"
-	"terms": [
-		{
+	"description": "A list of combining terms found in medical Latin",
+	"terms": [{
 			"affix": "ab-",
 			"definition": "away"
 		},
@@ -150,17 +149,17 @@
 		{
 			"affix": "fibr-",
 			"definition": "fiber"
-		},	
+		},
 
 		{
 			"affix": "fil-",
 			"definition": "thread"
-		},		
+		},
 
 		{
 			"affix": "-form",
 			"definition": "having the form of"
-		},		
+		},
 
 		{
 			"affix": "front-",
@@ -205,7 +204,7 @@
 		{
 			"affix": "infra-",
 			"definition": "below"
-		},		
+		}
 
 	]
 
