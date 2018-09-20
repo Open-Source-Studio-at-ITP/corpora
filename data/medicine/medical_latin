@@ -1,0 +1,212 @@
+// a collection of Latin combining affixes 
+{
+	"description": "A list of combining terms found in medical Greek"
+	"terms": [
+		{
+			"affix": "ab-",
+			"definition": "away"
+		},
+
+		{
+			"affix": "ad-",
+			"definition": "toward"
+		},
+
+		{
+			"affix": "adipo",
+			"definition": "fat"
+		},
+
+		{
+			"affix": "alb-",
+			"definition": "white"
+		},
+
+		{
+			"affix": "alve-",
+			"definition": "cavity"
+		},
+
+		{
+			"affix": "ambi-",
+			"definition": "both"
+		},
+
+		{
+			"affix": "ante-",
+			"definition": "before"
+		},
+
+		{
+			"affix": "apic-",
+			"definition": "top"
+		},
+
+		{
+			"affix": "-ase",
+			"definition": "enzyme"
+		},
+
+		{
+			"affix": "bacill-",
+			"definition": "rod"
+		},
+
+		{
+			"affix": "bi-",
+			"definition": "two"
+		},
+
+		{
+			"affix": "brevi-",
+			"definition": "short"
+		},
+
+		{
+			"affix": "capit-",
+			"definition": "head"
+		},
+
+		{
+			"affix": "cervix",
+			"definition": "neck"
+		},
+
+		{
+			"affix": "cili-",
+			"definition": "eyelid"
+		},
+
+		{
+			"affix": "cortic",
+			"definition": "bark"
+		},
+
+		{
+			"affix": "de-",
+			"definition": "without"
+		},
+
+		{
+			"affix": "dent-",
+			"definition": "teeth"
+		},
+
+		{
+			"affix": "dextr-",
+			"definition": "right"
+		},
+
+		{
+			"affix": "di-",
+			"definition": "apart"
+		},
+
+		{
+			"affix": "dif-",
+			"definition": "separation"
+		},
+
+		{
+			"affix": "digit-",
+			"definition": "finger"
+		},
+
+		{
+			"affix": "dis-",
+			"definition": "taking apart"
+		},
+
+		{
+			"affix": "dors-",
+			"definition": "back"
+		},
+
+		{
+			"affix": "duodeno-",
+			"definition": "twelve"
+		},
+
+		{
+			"affix": "-eal",
+			"definition": "pertaining to"
+		},
+
+		{
+			"affix": "ex-",
+			"definition": "out of"
+		},
+
+		{
+			"affix": "extra-",
+			"definition": "outside"
+		},
+
+		{
+			"affix": "faci-",
+			"definition": "face"
+		},
+
+		{
+			"affix": "fibr-",
+			"definition": "fiber"
+		},	
+
+		{
+			"affix": "fil-",
+			"definition": "thread"
+		},		
+
+		{
+			"affix": "-form",
+			"definition": "having the form of"
+		},		
+
+		{
+			"affix": "front-",
+			"definition": "forehead"
+		},
+
+		{
+			"affix": "genu-",
+			"definition": "knee"
+		},
+
+		{
+			"affix": "gingiv-",
+			"definition": "of the gum"
+		},
+
+		{
+			"affix": "halluc-",
+			"definition": "wander in mind"
+		},
+
+		{
+			"affix": "hemat-",
+			"definition": "blood"
+		},
+
+		{
+			"affix": "humer-",
+			"definition": "shoulder"
+		},
+
+		{
+			"affix": "-icle",
+			"definition": "small"
+		},
+
+		{
+			"affix": "-ics",
+			"definition": "organized knowledge"
+		},
+
+		{
+			"affix": "infra-",
+			"definition": "below"
+		},		
+
+	]
+
+}
