@@ -1,0 +1,1995 @@
+{
+  "count": 280,
+  "updated": 2018,
+  "data": [
+    {
+      "Country, Territory or Service": "Afghanistan",
+      "Time Zone": "UTC+04:30",
+      "Code": [
+        "+93"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Åland Islands",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+358 18"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Albania",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+355"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Algeria",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+213"
+      ]
+    },
+    {
+      "Country, Territory or Service": "American Samoa",
+      "Time Zone": "UTC-11:00",
+      "Code": [
+        "+1 684"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Andorra",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+376"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Angola",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+244"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Anguilla",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 264"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Antigua and Barbuda",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 268"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Argentina",
+      "Time Zone": "UTC-03:00",
+      "Code": [
+        "+54"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Armenia",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+374"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Aruba",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+297"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Ascension",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+247"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Australia",
+      "Time Zone": "UTC+08:00 to +10:30",
+      "Code": [
+        "+61"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Australian Antarctic Territory",
+      "Time Zone": "N/A",
+      "Code": [
+        "+672 1"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Australian External Territories",
+      "Time Zone": "N/A",
+      "Code": [
+        "+672"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Austria",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+43"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Azerbaijan",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+994"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bahamas",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+1 242"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bahrain",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+973"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bangladesh",
+      "Time Zone": "UTC+06:00",
+      "Code": [
+        "+880"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Barbados",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 246"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Barbuda",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 268"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Belarus",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+375"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Belgium",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+32"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Belize",
+      "Time Zone": "UTC-06:00",
+      "Code": [
+        "+501"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Benin",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+229"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bermuda",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 441"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bhutan",
+      "Time Zone": "UTC+06:00",
+      "Code": [
+        "+975"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bolivia",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+591"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bonaire",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+599 7"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bosnia and Herzegovina",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+387"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Botswana",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+267"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Brazil",
+      "Time Zone": "UTC-05:00 to -02:00",
+      "Code": [
+        "+55"
+      ]
+    },
+    {
+      "Country, Territory or Service": "British Indian Ocean Territory",
+      "Time Zone": "UTC+06:00",
+      "Code": [
+        "+246"
+      ]
+    },
+    {
+      "Country, Territory or Service": "British Virgin Islands",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 284"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Brunei Darussalam",
+      "Time Zone": "UTC+08:00",
+      "Code": [
+        "+673"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Bulgaria",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+359"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Burkina Faso",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+226"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Burundi",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+257"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Cambodia",
+      "Time Zone": "UTC+07:00",
+      "Code": [
+        "+855"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Cameroon",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+237"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Canada",
+      "Time Zone": "UTC-08:00 to -03:30",
+      "Code": [
+        "+1"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Cape Verde",
+      "Time Zone": "UTC-01:00",
+      "Code": [
+        "+238"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Caribbean Netherlands",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+599 3",
+        "+599 4",
+        "+599 7"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Cayman Islands",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+1 345"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Central African Republic",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+236"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Chad",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+235"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Chatham Island, New Zealand",
+      "Time Zone": "UTC+12:00",
+      "Code": [
+        "+64"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Chile",
+      "Time Zone": "UTC-06:00 to -04:00",
+      "Code": [
+        "+56"
+      ]
+    },
+    {
+      "Country, Territory or Service": "China",
+      "Time Zone": "UTC+08:00",
+      "Code": [
+        "+86"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Christmas Island",
+      "Time Zone": "UTC+07:00",
+      "Code": [
+        "+61 89164"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Cocos (Keeling) Islands",
+      "Time Zone": "UTC+06:30",
+      "Code": [
+        "+61 89162"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Colombia",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+57"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Comoros",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+269"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Congo",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+242"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Congo, Democratic Republic of the (Zaire)",
+      "Time Zone": "UTC+01:00 to +02:00",
+      "Code": [
+        "+243"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Cook Islands",
+      "Time Zone": "UTC-10:00",
+      "Code": [
+        "+682"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Costa Rica",
+      "Time Zone": "UTC-06:00",
+      "Code": [
+        "+506"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Ivory Coast",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+225"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Croatia",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+385"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Cuba",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+53"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Curaçao",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+599 9"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Cyprus",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+357"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Czech Republic",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+420"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Denmark",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+45"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Diego Garcia",
+      "Time Zone": "UTC+06:00",
+      "Code": [
+        "+246"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Djibouti",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+253"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Dominica",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 767"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Dominican Republic",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 809",
+        "+1 829",
+        "+1 849"
+      ]
+    },
+    {
+      "Country, Territory or Service": "East Timor",
+      "Time Zone": "UTC+09:00",
+      "Code": [
+        "+670"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Easter Island",
+      "Time Zone": "UTC-06:00",
+      "Code": [
+        "+56"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Ecuador",
+      "Time Zone": "UTC-06:00 to -05:00",
+      "Code": [
+        "+593"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Egypt",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+20"
+      ]
+    },
+    {
+      "Country, Territory or Service": "El Salvador",
+      "Time Zone": "UTC-06:00",
+      "Code": [
+        "+503"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Ellipso (Mobile Satellite service)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+881 2",
+        "+881 3"
+      ]
+    },
+    {
+      "Country, Territory or Service": "EMSAT (Mobile Satellite service)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+882 13"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Equatorial Guinea",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+240"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Eritrea",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+291"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Estonia",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+372"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Ethiopia",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+251"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Falkland Islands",
+      "Time Zone": "UTC-03:00",
+      "Code": [
+        "+500"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Faroe Islands",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+298"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Fiji",
+      "Time Zone": "UTC+12:00",
+      "Code": [
+        "+679"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Finland",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+358"
+      ]
+    },
+    {
+      "Country, Territory or Service": "France",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+33"
+      ]
+    },
+    {
+      "Country, Territory or Service": "French Antilles",
+      "Time Zone": "N/A",
+      "Code": [
+        "+596"
+      ]
+    },
+    {
+      "Country, Territory or Service": "French Guiana",
+      "Time Zone": "UTC-03:00",
+      "Code": [
+        "+594"
+      ]
+    },
+    {
+      "Country, Territory or Service": "French Polynesia",
+      "Time Zone": "UTC-10:00 to -09:00",
+      "Code": [
+        "+689"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Gabon",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+241"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Gambia",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+220"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Georgia",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+995"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Germany",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+49"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Ghana",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+233"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Gibraltar",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+350"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Global Mobile Satellite System (GMSS)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+881"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Globalstar (Mobile Satellite Service)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+881 8",
+        "+881 9"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Greece",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+30"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Greenland",
+      "Time Zone": "UTC-04:00 to +00:00",
+      "Code": [
+        "+299"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Grenada",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 473"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Guadeloupe",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+590"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Guam",
+      "Time Zone": "UTC+10:00",
+      "Code": [
+        "+1 671"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Guatemala",
+      "Time Zone": "UTC-06:00",
+      "Code": [
+        "+502"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Guernsey",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+44 1481",
+        "+44 7781",
+        "+44 7839",
+        "+44 7911"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Guinea",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+224"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Guinea-Bissau",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+245"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Guyana",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+592"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Haiti",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+509"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Honduras",
+      "Time Zone": "UTC-06:00",
+      "Code": [
+        "+504"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Hong Kong",
+      "Time Zone": "UTC+08:00",
+      "Code": [
+        "+852"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Hungary",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+36"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Iceland",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+354"
+      ]
+    },
+    {
+      "Country, Territory or Service": "ICO Global (Mobile Satellite Service)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+881 0",
+        "+881 1"
+      ]
+    },
+    {
+      "Country, Territory or Service": "India",
+      "Time Zone": "UTC+05:30",
+      "Code": [
+        "+91"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Indonesia",
+      "Time Zone": "UTC+07:00 to +09:00",
+      "Code": [
+        "+62"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Inmarsat SNAC",
+      "Time Zone": "N/A",
+      "Code": [
+        "+870"
+      ]
+    },
+    {
+      "Country, Territory or Service": "International Freephone Service (UIFN)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+800"
+      ]
+    },
+    {
+      "Country, Territory or Service": "International Networks",
+      "Time Zone": "N/A",
+      "Code": [
+        "+882",
+        "+883"
+      ]
+    },
+    {
+      "Country, Territory or Service": "International Premium Rate Service",
+      "Time Zone": "N/A",
+      "Code": [
+        "+979"
+      ]
+    },
+    {
+      "Country, Territory or Service": "International Shared Cost Service (ISCS)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+808"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Iran",
+      "Time Zone": "UTC+03:30",
+      "Code": [
+        "+98"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Iraq",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+964"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Ireland",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+353"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Iridium (Mobile Satellite service)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+881 6",
+        "+881 7"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Isle of Man",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+44 1624",
+        "+44 7524",
+        "+44 7624",
+        "+44 7924"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Israel",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+972"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Italy",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+39"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Jamaica",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+1 876"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Jan Mayen",
+      "Time Zone": "N/A",
+      "Code": [
+        "+47 79"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Japan",
+      "Time Zone": "UTC+09:00",
+      "Code": [
+        "+81"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Jersey",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+44 1534"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Jordan",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+962"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Kazakhstan",
+      "Time Zone": "UTC+05:00 to +06:00",
+      "Code": [
+        "+7 6",
+        "+7 7"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Kenya",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+254"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Kiribati",
+      "Time Zone": "UTC+12:00 to +14:00",
+      "Code": [
+        "+686"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Korea, North",
+      "Time Zone": "UTC+08:30",
+      "Code": [
+        "+850"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Korea, South",
+      "Time Zone": "UTC+09:00",
+      "Code": [
+        "+82"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Kosovo",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "(+383 in use now)",
+        "+377 44",
+        "+377 45",
+        "+386 43",
+        "+386 49",
+        "+381 28",
+        "+381 29",
+        "+381 38",
+        "+381 39"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Kuwait",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+965"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Kyrgyzstan",
+      "Time Zone": "UTC+05:00 to +06:00",
+      "Code": [
+        "+996"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Laos",
+      "Time Zone": "UTC+07:00",
+      "Code": [
+        "+856"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Latvia",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+371"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Lebanon",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+961"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Lesotho",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+266"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Liberia",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+231"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Libya",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+218"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Liechtenstein",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+423"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Lithuania",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+370"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Luxembourg",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+352"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Macau",
+      "Time Zone": "UTC+08:00",
+      "Code": [
+        "+853"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Macedonia",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+389"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Madagascar",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+261"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Malawi",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+265"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Malaysia",
+      "Time Zone": "UTC+08:00",
+      "Code": [
+        "+60"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Maldives",
+      "Time Zone": "UTC+05:00",
+      "Code": [
+        "+960"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Mali",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+223"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Malta",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+356"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Marshall Islands",
+      "Time Zone": "UTC+12:00",
+      "Code": [
+        "+692"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Martinique",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+596"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Mauritania",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+222"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Mauritius",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+230"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Mayotte",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+262 269",
+        "+262 639"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Mexico",
+      "Time Zone": "UTC-08:00 to -06:00",
+      "Code": [
+        "+52"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Micronesia, Federated States of",
+      "Time Zone": "UTC+10:00 to +11:00",
+      "Code": [
+        "+691"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Midway Island, USA",
+      "Time Zone": "UTC-11:00",
+      "Code": [
+        "+1 808"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Moldova",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+373"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Monaco",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+377"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Mongolia",
+      "Time Zone": "UTC+07:00 to +08:00",
+      "Code": [
+        "+976"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Montenegro",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+382"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Montserrat",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 664"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Morocco",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+212"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Mozambique",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+258"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Myanmar",
+      "Time Zone": "UTC+06:30",
+      "Code": [
+        "+95"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Nagorno-Karabakh",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+374 47",
+        "+374 97"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Namibia",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+264"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Nauru",
+      "Time Zone": "UTC+12:00",
+      "Code": [
+        "+674"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Nepal",
+      "Time Zone": "UTC+05:45",
+      "Code": [
+        "+977"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Netherlands",
+      "Time Zone": "CET(UTC+01:00) / AST(UTC-04:00)",
+      "Code": [
+        "+31"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Nevis",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 869"
+      ]
+    },
+    {
+      "Country, Territory or Service": "New Caledonia",
+      "Time Zone": "UTC+11:00",
+      "Code": [
+        "+687"
+      ]
+    },
+    {
+      "Country, Territory or Service": "New Zealand",
+      "Time Zone": "UTC+12:00",
+      "Code": [
+        "+64"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Nicaragua",
+      "Time Zone": "UTC-06:00",
+      "Code": [
+        "+505"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Niger",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+227"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Nigeria",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+234"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Niue",
+      "Time Zone": "UTC-11:00",
+      "Code": [
+        "+683"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Norfolk Island",
+      "Time Zone": "UTC+11:00",
+      "Code": [
+        "+672 3"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Northern Cyprus",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+90 392"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Northern Ireland",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+44 28"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Northern Mariana Islands",
+      "Time Zone": "UTC+10:00",
+      "Code": [
+        "+1 670"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Norway",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+47"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Oman",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+968"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Pakistan",
+      "Time Zone": "UTC+05:00",
+      "Code": [
+        "+92"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Palau",
+      "Time Zone": "UTC+09:00",
+      "Code": [
+        "+680"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Palestine, State of",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+970"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Panama",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+507"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Papua New Guinea",
+      "Time Zone": "UTC+10:00",
+      "Code": [
+        "+675"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Paraguay",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+595"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Peru",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+51"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Philippines",
+      "Time Zone": "UTC+08:00",
+      "Code": [
+        "+63"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Pitcairn Islands",
+      "Time Zone": "UTC-08:00",
+      "Code": [
+        "+64"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Poland",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+48"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Portugal",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+351"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Puerto Rico",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 787",
+        "+1 939"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Qatar",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+974"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Réunion",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+262"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Romania",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+40"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Russia",
+      "Time Zone": "UTC+02:00 to +12:00",
+      "Code": [
+        "+7"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Rwanda",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+250"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saba",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+599 4"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saint Barthélemy",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+590"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saint Helena",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+290"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saint Kitts and Nevis",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 869"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saint Lucia",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 758"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saint Martin (France)",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+590"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saint Pierre and Miquelon",
+      "Time Zone": "UTC-03:00",
+      "Code": [
+        "+508"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saint Vincent and the Grenadines",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 784"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Samoa",
+      "Time Zone": "UTC+13:00",
+      "Code": [
+        "+685"
+      ]
+    },
+    {
+      "Country, Territory or Service": "San Marino",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+378"
+      ]
+    },
+    {
+      "Country, Territory or Service": "São Tomé and Príncipe",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+239"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Saudi Arabia",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+966"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Senegal",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+221"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Serbia",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+381"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Seychelles",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+248"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Sierra Leone",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+232"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Singapore",
+      "Time Zone": "UTC+08:00",
+      "Code": [
+        "+65"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Sint Eustatius",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+599 3"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Sint Maarten (Netherlands)",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 721"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Slovakia",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+421"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Slovenia",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+386"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Solomon Islands",
+      "Time Zone": "UTC+11:00",
+      "Code": [
+        "+677"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Somalia",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+252"
+      ]
+    },
+    {
+      "Country, Territory or Service": "South Africa",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+27"
+      ]
+    },
+    {
+      "Country, Territory or Service": "South Georgia and the South Sandwich Islands",
+      "Time Zone": "UTC-02:00",
+      "Code": [
+        "+500"
+      ]
+    },
+    {
+      "Country, Territory or Service": "South Ossetia",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+995 34"
+      ]
+    },
+    {
+      "Country, Territory or Service": "South Sudan",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+211"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Spain",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+34"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Sri Lanka",
+      "Time Zone": "UTC+05:30",
+      "Code": [
+        "+94"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Sudan",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+249"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Suriname",
+      "Time Zone": "UTC-03:00",
+      "Code": [
+        "+597"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Svalbard",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+47 79"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Swaziland",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+268"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Sweden",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+46"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Switzerland",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+41"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Syria",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+963"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Taiwan",
+      "Time Zone": "UTC+08:00",
+      "Code": [
+        "+886"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Tajikistan",
+      "Time Zone": "UTC+05:00",
+      "Code": [
+        "+992"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Tanzania",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+255"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Telecommunications for Disaster Relief by OCHA",
+      "Time Zone": "N/A",
+      "Code": [
+        "+888"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Thailand",
+      "Time Zone": "UTC+07:00",
+      "Code": [
+        "+66"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Thuraya (Mobile Satellite service)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+882 16"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Togo",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+228"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Tokelau",
+      "Time Zone": "UTC+13:00",
+      "Code": [
+        "+690"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Tonga",
+      "Time Zone": "UTC+13:00",
+      "Code": [
+        "+676"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Transnistria",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+373 2",
+        "+373 5"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Trinidad and Tobago",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 868"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Tristan da Cunha",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+290 8"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Tunisia",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+216"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Turkey",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+90"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Turkmenistan",
+      "Time Zone": "UTC+05:00",
+      "Code": [
+        "+993"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Turks and Caicos Islands",
+      "Time Zone": "UTC-05:00",
+      "Code": [
+        "+1 649"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Tuvalu",
+      "Time Zone": "UTC+12:00",
+      "Code": [
+        "+688"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Uganda",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+256"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Ukraine",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+380"
+      ]
+    },
+    {
+      "Country, Territory or Service": "United Arab Emirates",
+      "Time Zone": "UTC+04:00",
+      "Code": [
+        "+971"
+      ]
+    },
+    {
+      "Country, Territory or Service": "United Kingdom",
+      "Time Zone": "UTC+00:00",
+      "Code": [
+        "+44"
+      ]
+    },
+    {
+      "Country, Territory or Service": "United States",
+      "Time Zone": "UTC-10:00 to -05:00",
+      "Code": [
+        "+1"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Universal Personal Telecommunications (UPT)",
+      "Time Zone": "N/A",
+      "Code": [
+        "+878"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Uruguay",
+      "Time Zone": "UTC-03:00",
+      "Code": [
+        "+598"
+      ]
+    },
+    {
+      "Country, Territory or Service": "US Virgin Islands",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+1 340"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Uzbekistan",
+      "Time Zone": "UTC+05:00",
+      "Code": [
+        "+998"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Vanuatu",
+      "Time Zone": "UTC+11:00",
+      "Code": [
+        "+678"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Venezuela",
+      "Time Zone": "UTC-04:00",
+      "Code": [
+        "+58"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Vatican City State (Holy See)",
+      "Time Zone": "UTC+01:00",
+      "Code": [
+        "+39 06 698",
+        "assigned +379"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Vietnam",
+      "Time Zone": "UTC+07:00",
+      "Code": [
+        "+84"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Wake Island, USA",
+      "Time Zone": "UTC+12:00",
+      "Code": [
+        "+1 808"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Wallis and Futuna",
+      "Time Zone": "UTC+12:00",
+      "Code": [
+        "+681"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Yemen",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+967"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Zambia",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+260"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Zanzibar",
+      "Time Zone": "UTC+03:00",
+      "Code": [
+        "+255 24"
+      ]
+    },
+    {
+      "Country, Territory or Service": "Zimbabwe",
+      "Time Zone": "UTC+02:00",
+      "Code": [
+        "+263"
+      ]
+    }
+  ]
+}
