@@ -1,7 +1,9 @@
 {
+  "description": "List of country calling codes",
+  "source": "https://en.wikipedia.org/wiki/List_of_country_calling_codes",
   "count": 280,
   "updated": 2018,
-  "data": [
+  "countries": [
     {
       "Country, Territory or Service": "Afghanistan",
       "Time Zone": "UTC+04:30",
