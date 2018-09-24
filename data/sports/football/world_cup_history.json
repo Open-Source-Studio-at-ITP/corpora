@@ -1,6 +1,6 @@
 {
  "description": "FIFA World Cup stats organized by year. Includes organizer, winner, runner-up, third and fourth. Data from FIFA scores, Sept 2018.",
- "url":"https://www.fifa.com/fifa-tournaments/archive/worldcup/index.html",
+ "source":"https://www.fifa.com/fifa-tournaments/archive/worldcup/index.html",
  "world_cup_history": [
   {
     "year": "1930",
