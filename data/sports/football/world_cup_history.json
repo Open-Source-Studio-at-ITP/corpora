@@ -1,11 +1,12 @@
 {
- "description": "FIFA World Cup stats organized by year. Includes organizer, winner, runners-up, third and fourth. Data from FIFA scores, Sept. 2018.",
+ "description": "FIFA World Cup stats organized by year. Includes organizer, winner, runner-up, third and fourth. Data from FIFA scores, Sept 2018.",
+ "url":"https://www.fifa.com/fifa-tournaments/archive/worldcup/index.html",
  "world_cup_history": [
   {
     "year": "1930",
     "organizer": "Uruguay",
     "winner": "Uruguay",
-    "runners-up": "Argentina",
+    "runner-up": "Argentina",
     "third":"USA",
     "fourth":"Yugoslavia"
   },
@@ -13,7 +14,7 @@
     "year": "1934",
     "organizer": "Italy",
     "winner": "Italy",
-    "runners-up": "Czechoslovakia",
+    "runner-up": "Czechoslovakia",
     "third":"Germany",
     "fourth":"Austria"
   },
@@ -21,7 +22,7 @@
     "year": "1938",
     "organizer": "France",
     "winner": "Italy",
-    "runners-up": "Hungary",
+    "runner-up": "Hungary",
     "third":"Brazil",
     "fourth":"Sweden"
   },
@@ -29,7 +30,7 @@
     "year": "1950",
     "organizer": "Brazil",
     "winner": "Uruguay",
-    "runners-up": "Brazil",
+    "runner-up": "Brazil",
     "third":"Sweden",
     "fourth":"Spain"
   },
@@ -37,7 +38,7 @@
     "year": "1954",
     "organizer": "Switzerland",
     "winner": "Germany FR",
-    "runners-up": "Hungary",
+    "runner-up": "Hungary",
     "third":"Austria",
     "fourth":"Uruguay"
   },
@@ -45,7 +46,7 @@
     "year": "1958",
     "organizer": "Sweden",
     "winner": "Brazil",
-    "runners-up": "Sweden",
+    "runner-up": "Sweden",
     "third":"France",
     "fourth":"Germany FR"
   },
@@ -53,7 +54,7 @@
     "year": "1962",
     "organizer": "Chile",
     "winner": "Brazil",
-    "runners-up": "Checoslovakia",
+    "runner-up": "Checoslovakia",
     "third":"Chile",
     "fourth":"Yugoslavia"
   },
@@ -61,7 +62,7 @@
     "year": "1966",
     "organizer": "England",
     "winner": "England",
-    "runners-up": "Germany FR",
+    "runner-up": "Germany FR",
     "third":"Portugal",
     "fourth":"Soviet Union"
   },
@@ -69,7 +70,7 @@
     "year": "1970",
     "organizer": "Mexico",
     "winner": "Brazil",
-    "runners-up": "Italy",
+    "runner-up": "Italy",
     "third":"Germany FR",
     "fourth":"Uruguay"
   },
@@ -77,7 +78,7 @@
     "year": "1974",
     "organizer": "Germany FR",
     "winner": "Germany FR",
-    "runners-up": "Netherlands",
+    "runner-up": "Netherlands",
     "third":"Poland",
     "fourth":"Brazil"
   },
@@ -85,7 +86,7 @@
     "year": "1978",
     "organizer": "Argentina",
     "winner": "Argentina",
-    "runners-up": "Netherlands",
+    "runner-up": "Netherlands",
     "third":"Brazil",
     "fourth":"Italy"
   },
@@ -93,7 +94,7 @@
     "year": "1982",
     "organizer": "Spain",
     "winner": "Italy",
-    "runners-up": "Germany",
+    "runner-up": "Germany",
     "third":"Poland",
     "fourth":"France"
   },
@@ -101,7 +102,7 @@
     "year": "1986",
     "organizer": "Mexico",
     "winner": "Argentina",
-    "runners-up": "Germany FR",
+    "runner-up": "Germany FR",
     "third":"France",
     "fourth":"Belgium"
   },
@@ -109,7 +110,7 @@
     "year": "1990",
     "organizer": "Italy",
     "winner": "Germany FR",
-    "runners-up": "Argentina",
+    "runner-up": "Argentina",
     "third":"Italy",
     "fourth":"England"
   },
@@ -117,7 +118,7 @@
     "year": "1994",
     "organizer": "USA",
     "winner": "Brazil",
-    "runners-up": "Italy",
+    "runner-up": "Italy",
     "third":"Sweden",
     "fourth":"Bulgaria"
   },
@@ -125,7 +126,7 @@
     "year": "1998",
     "organizer": "France",
     "winner": "France",
-    "runners-up": "Brazil",
+    "runner-up": "Brazil",
     "third":"Croatia",
     "fourth":"Netherlands"
   },
@@ -133,7 +134,7 @@
     "year": "2002",
     "organizer": "Korea/Japan",
     "winner": "Brazil",
-    "runners-up": "Germany",
+    "runner-up": "Germany",
     "third":"Turkey",
     "fourth":"Korea Republic"
   },
@@ -141,7 +142,7 @@
     "year": "2006",
     "organizer": "Germany",
     "winner": "Italy",
-    "runners-up": "France",
+    "runner-up": "France",
     "third":"Germany",
     "fourth":"Portugal"
   },
@@ -149,7 +150,7 @@
     "year": "2010",
     "organizer": "South Africa",
     "winner": "Spain",
-    "runners-up": "Netherlands",
+    "runner-up": "Netherlands",
     "third":"Germany",
     "fourth":"Uruguay"
   },
@@ -157,7 +158,7 @@
     "year": "2014",
     "organizer": "Brazil",
     "winner": "Germany",
-    "runners-up": "Argentina",
+    "runner-up": "Argentina",
     "third":"Netherlands",
     "fourth":"Brazil"
   },
@@ -165,9 +166,9 @@
     "year": "2018",
     "organizer": "Russia",
     "winner": "France",
-    "runners-up": "Croatia",
+    "runner-up": "Croatia",
     "third":"Belgium",
     "fourth":"England"
-  },
+  }
  ]
 }
