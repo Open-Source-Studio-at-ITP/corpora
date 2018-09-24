@@ -1,0 +1,30 @@
+{
+    "description":"Series of Persona and their details",
+    "source": "https://en.wikipedia.org/wiki/Persona_(series)",
+    "games":{
+        "Revelations: Persona":{
+            "year": "09-20-1996",
+            "platforms": ["PlayStation", "Microsoft Windows", "PlayStation Portable"]
+        },
+        "Persona 2: Innocent Sin":{
+            "year":"07-24-1999",
+            "platforms": ["PlayStation", "PlayStation Portable"]
+        },
+        "Persona 2: Eternal Punishment":{
+            "year":"07-29-2000",
+            "platforms": ["PlayStation", "PlayStation Portable"]
+        },
+        "Persona 3":{
+            "year":"07-13-2006",
+            "platforms": ["PlayStation 2", "PlayStation Portable"]
+        },
+        "Persona 4":{
+            "year":"07-10-2008",
+            "platforms": ["PlayStation 2", "PlayStation Vita"]
+        },
+        "Persona 5":{
+            "year":"09-15-2016",
+            "platforms": ["PlayStation 3", "PlayStation 4"]
+        }
+    }
+}
