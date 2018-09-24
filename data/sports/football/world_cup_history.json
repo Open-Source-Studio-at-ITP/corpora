@@ -1,5 +1,5 @@
 {
- "description": "FIFA World Cup winnerchip organized by year includes organizer, winner, runners-up, third and fourth. Data from FIFA scores, Sept. 2018.",
+ "description": "FIFA World Cup stats organized by year. Includes organizer, winner, runners-up, third and fourth. Data from FIFA scores, Sept. 2018.",
  "world_cup_history": [
   {
     "year": "1930",
