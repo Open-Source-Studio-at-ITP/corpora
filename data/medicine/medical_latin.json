@@ -1,5 +1,6 @@
 {
 	"description": "A list of combining terms found in medical Latin",
+	"souces": [ "http://www.indiana.edu/~g404/GreekLatinRoots.pdf", "https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes", "Dorland's Medical Dictionary"],
 	"terms": [{
 			"affix": "ab-",
 			"definition": "away"
